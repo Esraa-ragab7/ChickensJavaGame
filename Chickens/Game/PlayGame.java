@@ -96,11 +96,11 @@ public class PlayGame implements GLEventListener, KeyListener {
         }
         MainMenu.eggst.setText(eggsnb + "");
         if (level == 4) {
-            eggsnb = 5;
+            eggsnb = 65;
         }
         MainMenu.eggst.setText(eggsnb + "");//65
         if (level == 5) {
-            eggsnb = 5;
+            eggsnb = 70;
         }
         MainMenu.eggst.setText(eggsnb + "");//70
         l = 1;
