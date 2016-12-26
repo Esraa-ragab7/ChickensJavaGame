@@ -36,7 +36,7 @@ static MainMenu menu;
     int[][] pos = new int[maxWidth][maxHeight];
     int x = 10, y = 10;
 
-    String textureNames[] = {"iages\\endd2.png","iages\\endd3.png","iages\\bak3.png"};
+    String textureNames[] = {"iages\\endd2.png","iages\\endd3.png"};
     TextureReader.Texture texture[] = new TextureReader.Texture[textureNames.length];
     int textures[] = new int[textureNames.length];
 
